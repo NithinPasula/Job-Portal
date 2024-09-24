@@ -5,7 +5,7 @@
 
 # 🏢 Full Stack Job Portal Web Application
 
-This is a full-featured job portal web application built as part of my internship at **Zidio Development**. It allows users to search and apply for jobs, companies to post jobs, and includes an admin dashboard for managing jobs and applicants.
+This is a full-featured job portal web application that allows users to search and apply for jobs, companies to post jobs, and includes an admin dashboard for managing jobs and applicants.
 
 ## 🚀 Features
 
